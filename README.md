@@ -1,5 +1,3 @@
-# BBT RNG - Генератор случайных чисел на основе энтропии
-
 ![Version](https://img.shields.io/badge/version-1.0.0-yellow)
 ![React](https://img.shields.io/badge/React-19.1.1-61dafb)
 ![Flask](https://img.shields.io/badge/Flask-3.1.2-000000)
