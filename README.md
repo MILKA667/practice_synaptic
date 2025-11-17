@@ -20,8 +20,7 @@
 - **Docker** + Docker Compose
   
 ## 🌐 Сайт
-**Доступно по адресу:** [BBT_RNG](http://185.237.95.6/page1)
-
+**Доступно по адресу:** 
 ## 📦 Установка и запуск
 
 ### Предварительные требования
@@ -33,8 +32,8 @@
 
 #### 1. Клонируйте репозиторий
 ```bash
-git clone https://github.com/hackathonsrus/Product_programming_binary_beasts_team_422.git
-cd bbt-rng
+git clone https://github.com/MILKA667/practice_synaptic.git
+cd practice_synaptic
 ```
 
 #### 2. Запуск бекенда (Flask)
@@ -75,8 +74,8 @@ npm run dev
 
 ```bash
 #Клонируем репозиторий
-git clone https://github.com/hackathonsrus/Product_programming_binary_beasts_team_422.git
-cd Product_programming_binary_beasts_team_422
+git clone https://github.com/MILKA667/practice_synaptic.git
+cd practice_synaptic
 
 # Сборка и запуск всех сервисов
 docker compose up --build
